@@ -1,0 +1,14 @@
+com\Clothing_Shop\User\UserApplication.class
+com\Clothing_Shop\User\domain\User$UserBuilder.class
+com\Clothing_Shop\User\domain\User$Role.class
+com\Clothing_Shop\User\service\UserService.class
+com\Clothing_Shop\User\controller\UserController.class
+com\Clothing_Shop\User\dto\ChangePasswordRequest.class
+com\Clothing_Shop\User\dto\LoginRequest.class
+com\Clothing_Shop\User\dto\UserResponse.class
+com\Clothing_Shop\User\repository\UserRepository.class
+com\Clothing_Shop\User\dto\RegisterRequest.class
+com\Clothing_Shop\User\config\SecurityConfig.class
+com\Clothing_Shop\User\dto\UpdateUserRequest.class
+com\Clothing_Shop\User\config\PasswordConfig.class
+com\Clothing_Shop\User\domain\User.class
