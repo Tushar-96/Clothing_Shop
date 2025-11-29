@@ -21,6 +21,8 @@
 		<module>Order</module>
 		<module>ShoppingCart</module>
 		<module>CartItem</module>
+		<module>Category_Category</module>
+		<module>Category</module>
 	</modules>
 
 </project>
