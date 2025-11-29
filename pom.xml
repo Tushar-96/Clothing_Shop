@@ -18,6 +18,9 @@
 	<modules>
 		<module>User</module>
 		<module>Product</module>
+		<module>Order</module>
+		<module>ShoppingCart</module>
+		<module>CartItem</module>
 	</modules>
 
 </project>

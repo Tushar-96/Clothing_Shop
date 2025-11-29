@@ -8,9 +8,9 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>com.Clothing_Shop</groupId>
-	<artifactId>Product</artifactId>
+	<artifactId>CartItem</artifactId>
 <!--	<version>0.0.1-SNAPSHOT</version>-->
-	<name>Product</name>
+	<name>CartItem</name>
 	<description>Demo project for Spring Boot</description>
 	<url />
 	<licenses>
