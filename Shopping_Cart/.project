@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>CartItem</name>
+	<name>Shopping_Cart</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -27,7 +27,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1764394603719</id>
+			<id>1764499140612</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
